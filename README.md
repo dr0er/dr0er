@@ -1,11 +1,10 @@
 ## > "Who are you?"
 ![GitHub Logo](/header.png)
 
-## > "How can I contact you?"
 
 <!-- Actual text -->
 
-#### **You can reach me out on [Discord][1] or [LinkedIn][2].**
+## **You can reach me out on [Discord][1] or [LinkedIn][2].**
 
 <!-- Links to your social media accounts -->
 
