@@ -13,7 +13,7 @@
 [2]: https://www.linkedin.com/in/ernest-drobny/
 
 
-## > "What's your stack && tooling?"
+## > "What's your stack & tooling?"
 
 ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SHELL-POWERSHELL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
