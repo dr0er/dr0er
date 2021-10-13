@@ -1,4 +1,4 @@
-## > "Who you are?"
+## > "Who are you?"
 ![GitHub Logo](/header.png)
 
 ## > "How can I contact you?"
