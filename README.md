@@ -1,10 +1,10 @@
-## > "Who are you?"
+## > "Who are you?" 🤔
 ![GitHub Logo](/header.png)
 
 
 <!-- Actual text -->
 
-## **You can reach me out on [Discord][1] or [LinkedIn][2].**
+## **You can reach me out on [Discord][1] or [LinkedIn][2]. 💌**
 
 <!-- Links to your social media accounts -->
 
@@ -12,7 +12,7 @@
 [2]: https://www.linkedin.com/in/ernest-drobny/
 
 
-## > "What's your stack & tooling?"
+## > "What's your stack & tooling?" 🛠
 
 ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SHELL-POWERSHELL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -27,7 +27,7 @@
 ![](https://img.shields.io/badge/HOSTING-HEROKU/NETLIFY-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CLOUD-AWS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-## > "Do you have stats for nerds section?"
+## > "Do you have stats for nerds section?" 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr0er&count_private=true&show_icons=true&theme=dark)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr0er&theme=dark&layout=compact" />
