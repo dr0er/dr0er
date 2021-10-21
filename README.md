@@ -29,5 +29,6 @@
 
 ## > "Do you have stats for nerds section?" 📊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr0er&count_private=true&show_icons=true&theme=dark)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr0er&theme=dark&layout=compact" />
