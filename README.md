@@ -2,7 +2,7 @@
 
 <!-- Actual text -->
 
-### **You can reach me out on [LinkedIn][2] or my [personal website][1].🏽**
+### **You can reach me out on [LinkedIn][2] or my [personal website][1].**
 
 <!-- Links to your social media accounts -->
 
