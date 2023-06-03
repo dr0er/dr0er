@@ -1,5 +1,5 @@
 # Pinned (featured) projects don't catch up to my current skills.
-## I'm working on something more advanced that can't be released yet.
+I'm working on something more advanced that can't be released yet.
 
 ## > "How can I establish a partnership with you?" 🤔
 
