@@ -1,4 +1,4 @@
-## Pinned (featured) projects don't catch up to my current skills, since most of them were made two years ago. Since August 2023 I'm working on something more advanced that can't be released yet 😳
+## Pinned (featured) projects don't catch up to my current skills, since most of them were made two years ago. Since November 2023 I'm working on something more advanced that can't be released yet 😳
 
 ## > "How can I establish a partnership with you?" 🤔
 
