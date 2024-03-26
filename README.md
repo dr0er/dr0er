@@ -1,10 +1,8 @@
-## Pinned (featured) projects don't catch up to my current skills, since most of them were made two years ago. Since November 2023 I'm working on something more advanced that can't be released yet 😳
-
-## > "How can I establish a partnership with you?" 🤔
+# > "How can I establish a partnership with you?" 🤔
 
 <!-- Actual text -->
 
-### **You can reach me out on [LinkedIn][2] or my [personal website][1].**
+## **You can reach me out on [LinkedIn][2] or my [personal website][1].**
 
 <!-- Links to your social media accounts -->
 
