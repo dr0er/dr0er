@@ -8,7 +8,7 @@
 
 <!-- Links to your social media accounts -->
 
-[1]: https://ernestdrobny.vercel.app/#/
+[1]: https://www.edrobny.eu/
 [2]: https://www.linkedin.com/in/ernest-drobny/
 
 <!---
