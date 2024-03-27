@@ -1,8 +1,7 @@
 # Q: How can I establish a partnership with you? 🤔
+**A: You can reach me out on [LinkedIn][2] or my [personal website][1].**
 
 <!-- Actual text -->
-
-## **A: You can reach me out on [LinkedIn][2] or my [personal website][1].**
 
 <!-- Links to your social media accounts -->
 
